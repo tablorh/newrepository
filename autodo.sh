@@ -1,4 +1,5 @@
 cd ~/Desktop
 pwd > list.txt
 ls -a>>list.txt
+echo "hi tsotso, from amy" >>list.txt
 
