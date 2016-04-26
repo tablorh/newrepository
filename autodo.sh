@@ -1,3 +1,4 @@
 cd ~/Desktop
 pwd > list.txt
-cd ~/Desktop
+ls -a>>list.txt
+
